@@ -1,24 +1,31 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2013-10-18 09:46:18
-categories: jekyll update
+title:  "Announcing MadPUG's Code of Conduct"
+date:   2013-11-16 00:00:01
+categories: madpug conduct
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+Most local meet-ups never expect the need to have a Code of Conduct for their 
+attendees and most do not. In fact, MadPUG has never had an incident occur 
+that would indicate this is necessary which would make most beg the question 
+"Why?".
 
-Jekyll also offers powerful support for code snippets:
+The short answer is that a friend of mine was harrassed at a local meet-up 
+approximately a month ago. Between that and the excellence of the PyCon Code 
+of Conduct, the decision was simple.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+I personally believe everyone should feel comfortable when attending a MadPUG 
+meet-up and should feel comfortable knowing there is a system in place in the 
+event that something does happen at a meet-up. As such, I have forked the 
+PyCon Code of Conduct and edited it appropriately. A link to the code of 
+conduct will always be in the header of this site and linked to in the MeetUp 
+group.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+If you want to contribute to the Code of Conduct to add something specific to 
+MadPUG, you can do so [here][madpug-coc]. If instead, you would like to make a 
+change to the original, you can contribute [here][pycon-coc]. I will 
+occasionally pull in new changes to the PyCon Code of Conduct, so making 
+changes there will trickle down into MadPUG's.
 
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+[madpug-coc]: https://github.com/MadPUG/pycon-code-of-conduct
+[pycon-coc]: https://github.com/python/pycon-code-of-conduct
