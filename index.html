@@ -4,7 +4,7 @@ title: The Official Madison Python Users' Group Website
 ---
 
 <div id="home">
-  <h1>News</h1>
+  <h1>Updates</h1>
   <ul class="posts">
     {% for post in site.posts %}
     <li>
@@ -15,6 +15,9 @@ title: The Official Madison Python Users' Group Website
         <a href="{{ post.url }}">
             {{ post.title }}
         </a>
+        <div class="excerpt">
+            {{ post.excerpt }}
+        </div>
     </li>
     {% endfor %}
   </ul>
