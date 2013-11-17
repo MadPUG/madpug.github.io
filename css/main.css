@@ -118,6 +118,10 @@ ul.posts .excerpt {
   margin-right: 3em;
 }
 
+.site .footer .contact-left {
+  text-align: right;
+}
+
 .site .footer .contact a {
   color: #8085C1;
 }
@@ -130,6 +134,10 @@ ul.posts .excerpt {
 
 .site .footer .rss img {
   border: 0;
+}
+
+.site .footer .body {
+  margin-left: 100px;
 }
 
 /*****************************************************************************/
