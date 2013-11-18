@@ -4,9 +4,9 @@ title: The Official Madison Python Users' Group Website
 ---
 
 <div id="home">
-  <h1>5 Most Recent Updates</h1>
+  <h1>All Updates</h1>
   <ul class="posts">
-    {% for post in site.posts limit:5 %}
+    {% for post in site.posts %}
     <li>
         <span>
             {{ post.date | date_to_string }}
@@ -21,5 +21,5 @@ title: The Official Madison Python Users' Group Website
     </li>
     {% endfor %}
   </ul>
-  <p>Click <a href="all.html">here</a> to see all updates from MadPUG</p>
 </div>
+
