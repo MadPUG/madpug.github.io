@@ -80,7 +80,6 @@ ul.posts .excerpt {
 
 .site .header h1.title {
   display: inline-block;
-  margin-bottom: 2em;
 }
 
 .site .header h1.title a {
@@ -92,9 +91,16 @@ ul.posts .excerpt {
   color: #000;
 }
 
-.site .header a.extra {
+.site .sub-header {
+  text-align: right;
+  margin-bottom: 2em;
   color: #aaa;
-  margin-left: 1em;
+}
+
+.site a.extra {
+  text-decoration: none;
+  color: #aaa;
+  margin: 0em 0.5em 1em;
 }
 
 .site .header a.extra:hover {
