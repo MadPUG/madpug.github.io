@@ -2,7 +2,6 @@
 layout: post
 title:  "MadPUG at the Madison Public Library"
 date:   2013-11-18 21:59:59
-categories: madpug location
 ---
 
 Unsurprisingly, MadPUG has filled [Bendyworks][] to capacity more than a

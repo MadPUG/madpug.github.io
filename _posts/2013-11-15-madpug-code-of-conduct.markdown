@@ -2,7 +2,6 @@
 layout: post
 title:  "Announcing MadPUG's Code of Conduct"
 date:   2013-11-16 00:00:01
-categories: madpug conduct
 ---
 
 Most local meet-ups never expect the need to have a Code of Conduct for their 
