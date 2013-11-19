@@ -55,8 +55,8 @@ ul.posts span {
   font-size: 80%;
 }
 
-ul.posts .excerpt {
-  margin-left: 30px;
+ul.posts .excerpt p {
+  margin: 0.1em 0 3em;
 }
 
 /*****************************************************************************/
@@ -64,6 +64,10 @@ ul.posts .excerpt {
 /* Site
 /*
 /*****************************************************************************/
+
+a {
+  text-decoration: none;
+}
 
 .site {
   font-size: 115%;
@@ -75,7 +79,6 @@ ul.posts .excerpt {
 
 .site .header a {
   font-weight: bold;
-  text-decoration: none;
 }
 
 .site .header h1.title {
@@ -92,15 +95,19 @@ ul.posts .excerpt {
 }
 
 .site .sub-header {
-  text-align: right;
-  margin-bottom: 2em;
+  text-align: left;
+  margin: 0 0 2em;
   color: #aaa;
 }
 
 .site a.extra {
-  text-decoration: none;
   color: #aaa;
-  margin: 0em 0.5em 1em;
+  margin: 0em 0 1em;
+}
+
+.site a.post-title {
+  font-size: 115%;
+  font-weight: bold;
 }
 
 .site .header a.extra:hover {
