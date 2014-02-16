@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "An Introduction to SciPy & Pandas"
+author: olooney
 date:   2014-02-15 18:59:59
 ---
 
