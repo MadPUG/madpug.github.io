@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "An Introduction to SciPy & Pandas"
+date:   2014-02-15 18:59:59
+---
+
+
+We had a great turnout for Feburary's MadPUG meetup, [An Introduction to SciPy and Pandas][MUSP], thank you all for coming! As promised, here are the resources and source files from the talk.
+
+Unfortunately, only the last few minutes of the screencast I recorded were
+saved, so we'll have to make do with the notebook resources. I've included the HTML export for easy
+viewing, plus the downloadable `.ipynb` notebook file and CSV data file for the climate change notebook.
+
+* [IPython And Pylab Notebook][IPX] ([ipynb][IPNB])
+* [Climate Change Notebook][CCX] ([ipynb][CCNB]) [datafile][CCD]
+
+[James][J] also provided some great resources:
+
+* [Python for Data Analysis][PYDA]
+* [Coding the Matrix][PYMX]
+* [SciKit and Numpy][PYMX]
+
+
+To get started with SciPy, [pick a distribution from the SciPy site][SPI] and [get started][SPGS]!
+
+
+[MUSP]: http://www.meetup.com/MadPUG/events/160124632/
+
+[CCX]: /resources/scipy/Climate%20Change.html
+[CCNB]: /resources/scipy/Climate%20Change.ipynb
+[CCD]: /resources/scipy/climate_change_data.csv
+
+[IPX]: /resources/scipy/IPython%20Notebook%20+%20Pylab%20Inline.html
+[IPNB]: /resources/scipy/IPython%20Notebook%20+%20Pylab%20Inline.ipynb
+
+[PYDA]: http://shop.oreilly.com/product/0636920023784.do
+[PYMX]: https://www.coursera.org/course/matrix
+[PYSKNP]: http://my.safaribooksonline.com/book/programming/python/9781449361600
+
+[SPI]: http://www.scipy.org/install.html
+[SPGS]: http://www.scipy.org/getting-started.html
+
+[J]: http://www.meetup.com/MadPUG/members/54080982/
