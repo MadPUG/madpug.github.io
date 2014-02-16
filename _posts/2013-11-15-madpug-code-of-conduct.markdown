@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Announcing MadPUG's Code of Conduct"
+author: sigmavirus24
 date:   2013-11-16 00:00:01
 ---
 

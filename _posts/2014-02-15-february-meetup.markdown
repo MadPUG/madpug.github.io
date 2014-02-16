@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "An Introduction to Scipy and Pandas"
+author: sigmavirus24
 date:   2014-02-15 19:59:59
 ---
 

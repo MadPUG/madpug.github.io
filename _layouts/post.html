@@ -2,8 +2,12 @@
 layout: default
 ---
 
+{% assign author = site.authors[page.author] %}
 <h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<p class="meta">
+  by <a href="https://github.com/{{page.author}}">{{author.name}}</a>
+  on {{ page.date | date_to_string }}
+</p>
 
 <div class="post">
 {{ content }}

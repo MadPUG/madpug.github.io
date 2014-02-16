@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "MadPUG at the Madison Public Library"
+author: sigmavirus24
 date:   2013-11-18 21:59:59
 ---
 
