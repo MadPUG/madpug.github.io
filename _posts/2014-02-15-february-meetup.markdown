@@ -1,19 +1,19 @@
 ---
 layout: post
-title:  "An Introduction to Scipy and Pandas"
+title:  "An Introduction to SciPy and Pandas"
 author: sigmavirus24
 date:   2014-02-15 19:59:59
 ---
 
 At this month's [meetup][] [Oran Looney][olooney] gave an hour long 
 presentation about [IPython][], [SciPy][], and [Pandas][]. After the meeting, 
-One of the member's new to the group, William Blondeau, sent me an email with 
-feedback.  With their permission, I'm posting a slightly edited group of 
+One of the member's new to the group, Bill Blondeau, sent me an email with 
+feedback.  With his permission, I'm posting a slightly edited group of 
 excerpts from their email
 
-**TL;DR** The Python scientific libraries are very powerful and easy to use. I 
-expect we will be using this stuff more and more as we go forward. Python 
-appears to be gaining ground as the go-to scientific computing solution.
+**TL;DR** *The Python scientific libraries are very powerful and easy to use.
+I expect we will be using this stuff more and more as we go forward. Python 
+appears to be gaining ground as the go-to scientific computing solution.*
 
 The presenter, Oran Looney, is a Data Scientist with an academic background in 
 physics modeling and visualization. He knows the problem domain 
