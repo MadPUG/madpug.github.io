@@ -158,6 +158,16 @@ a {
   margin-left: 100px;
 }
 
+.site .footer .license img {
+  margin-top: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+.site .footer .license p {
+  margin: 0.5em 0;
+}
+
 /*****************************************************************************/
 /*
 /* Posts
