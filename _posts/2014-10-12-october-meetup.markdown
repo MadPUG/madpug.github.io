@@ -46,17 +46,17 @@ The talk finished with a review of Benet's iterator-based tree traversal
 function.
 
 
-## A quick exploration of ModSpLan
+## A quick exploration of Modsplan
 
-After Benet finished answering questions, our next speaker spoke about their 
-project. [modsplan][modsplan] is the modular specification for languages, 
-created by Davi Post. Davi described how ModSpLan was born from desire to play 
+After Benet finished answering questions, Davi Post presented his project 
+[Modsplan][modsplan], the Modular Specification of Programming Languages. 
+Davi described how Modsplan was born from desire to play 
 with languages via their specifications. The problem is that specifications 
 are not always complete (or correct). Davi thought "What if a compiler could 
 read a specification?" You could then test a compiler/specification against a 
 reference implementation. What if languages that have common features could 
-reuse pieces of specifications? Davi then proceeded to show off ModSpLan's 
-data flow and showed examples of the token, language, and definition 
+reuse pieces of specifications? Davi then proceeded to show off Modsplan's 
+data flow and showed examples of the token, syntax, and definition 
 sub-specifications. Each specification uses [Backus-Nauer Form (BNF)][BNF].
 
 ## Next Month
