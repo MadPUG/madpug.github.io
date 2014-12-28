@@ -66,7 +66,7 @@ If [Django][Django] is your thing, we have a talk about integrating
 talk exploring some more advanced usage of [requests][requests]. So if web 
 development or API consumption are your thing, be sure to join us.
 
-[modsplan]: https://github.com/davipo/modsplan-compiler
+[modsplan]: http://modsplan.com/
 [BNF]: http://en.wikipedia.org/wiki/Backus%E2%80%93Naur_Form
 [Django]: https://www.djangoproject.com/
 [angjs]: https://angularjs.org/
