@@ -62,8 +62,8 @@ Contact Information
 
 If you are being harassed, notice that someone else is being harassed, or have 
 any other concerns, please contact a member of conference staff. You may also 
-contact event volunteers and ask to be put in touch with the event organizer 
-&mdash; Ian Cordasco.
+contact event volunteers and ask to be put in touch with the event organizers 
+&mdash; Ian Cordasco & Cea Stapleton.
 
 MadPUG volunteers will be happy to help participants contact local law 
 enforcement, provide escorts, or otherwise assist those experiencing 
@@ -73,10 +73,7 @@ attendance.
 Procedure for Handling Harassment
 ---------------------------------
 
-*TO BE UPDATED*
-
 - [Attendee Procedure for incident handling][attendee]
-- [Staff Procedure for incident handling][staff]
 
 License
 -------
@@ -110,7 +107,6 @@ Creative Commons Attribution 3.0 Unported License</a>.
 
 [geek_fem]: http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy
 [pycon-coc]: https://github.com/python/pycon-code-of-conduct
-[attendee]: /2013/about/code-of-conduct/harassment-incidents/
-[staff]: https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents-staff/
+[attendee]: /2016/04/16/incident-reporting.html
 
 <!-- vim: set ft=markdown -->
