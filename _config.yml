@@ -1,10 +1,13 @@
 name: Madison Python Users' Group
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 
 authors:
   sigmavirus24:
     name: Ian Cordasco
+
+  ceaess:
+    name: Cea Stapleton
 
   olooney:
     name: Oran Looney
